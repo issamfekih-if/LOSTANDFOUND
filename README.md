@@ -31,7 +31,7 @@
 
 
 - TOOLS <br>
-![Static Badge](https://img.shields.io/badge/17.0.10-%20?style=for-the-badge&logo=openjdk&logoColor=%233a75b0&label=JDK%20JAVA&labelColor=%23000000&color=%233a75b0)
+![Static Badge](https://img.shields.io/badge/17.0.10-%20?style=for-the-badge&logo=openjdk&logoColor=%233a75b0&label=JDK%20JAVA&labelColor=%23000000&color=%233a75b0) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=postman&logoColor=%23FF6C37&label=postman&labelColor=%23000000&color=%23FF6C37) <br>
 
 
