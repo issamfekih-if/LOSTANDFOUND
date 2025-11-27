@@ -1,4 +1,5 @@
 # LOSTANDFOUND
+![Static Badge](https://img.shields.io/badge/1.0.0-%20?style=for-the-badge&label=version&labelColor=%23828ea9&color=%2322c0e9) <br>
 
 
 
