@@ -34,6 +34,8 @@
 - LANGUAGE <br>
 
 
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=typescript&logoColor=%233178C6&label=typescript&labelColor=%23000000&color=%233178C6) <br>
+
 
 - ENVIRONMENT <br>
 ![Static Badge](https://img.shields.io/badge/20.15.0-%20?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&label=nodedotjs&labelColor=%23000000&color=%235FA04E) <br>
