@@ -53,7 +53,7 @@
 
 ![alt text](12.png)
 
-13. Announcements published by date : <br>
+13. Announcements sorted by date : <br>
 
 ![alt text](13.png)
 
