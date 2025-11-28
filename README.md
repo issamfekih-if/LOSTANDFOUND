@@ -28,9 +28,6 @@
 ![Static Badge](https://img.shields.io/badge/3.1.1-%20?style=for-the-badge&logo=spring&logoColor=%236DB33F&label=spring&labelColor=%23000000&color=%236DB33F) <br>
 ![Static Badge](https://img.shields.io/badge/16-%20?style=for-the-badge&logo=angular&logoColor=%230F0F11&label=angular&labelColor=%23ffffff&color=%230F0F11) <br>
 
-
-
-
 - LANGUAGE <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=typescript&logoColor=%233178C6&label=typescript&labelColor=%23000000&color=%233178C6) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logoColor=%233a75b0&label=java&labelColor=%23000000&color=%233a75b0) <br>
@@ -43,5 +40,13 @@
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=postman&logoColor=%23FF6C37&label=postman&labelColor=%23000000&color=%23FF6C37) <br>
 
 - DATABASE <br>
-![Static Badge](https://img.shields.io/badge/8.2.12-%20?style=for-the-badge&logo=xampp&logoColor=%23FB7A24&label=xampp&labelColor=%23000000&color=%23FB7A24)
+![Static Badge](https://img.shields.io/badge/8.2.12-%20?style=for-the-badge&logo=xampp&logoColor=%23FB7A24&label=xampp&labelColor=%23000000&color=%23FB7A24) <br>
 
+### How to use
+```
+npm install -g @angular/cli@16 --force
+ng new _
+ng g c _
+ng g s _
+ng s -o
+``` 
