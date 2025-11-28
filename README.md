@@ -2,7 +2,9 @@
 ![Static Badge](https://img.shields.io/badge/1.0.0-%20?style=for-the-badge&label=version&labelColor=%23828ea9&color=%2322c0e9) <br>
 
 - Description <br>
-> . <br><br>
+> Lost & Found web application. <br><br>
+The objective of this application is to help users who have found items and want to assist others in recovering them, as well as those who want to post announcements about lost items. <br><br>
+The application allows users to view, post, and comment on announcements about lost or found items.
 
 ### User
 1. User SignUp : <br>
