@@ -29,6 +29,7 @@
 
 ![alt text](6.png)
 
+### Admin
 7. Admin sidebar menu for management : <br>
 
 ![alt text](7.png)
